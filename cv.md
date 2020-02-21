@@ -11,10 +11,9 @@ Email: 13.zrka@gmail.com</i><p>
   Tools: Git, Firebase</br>
   Other: Git-flow, Clean architecture, Design patterns
   </br></i></p>
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
+5. Code example:
+  <p><i>I developed 2 applications, namely Reminder and Family-Circle, but at the moment, they are in preparation for release to the Play Market and therefore have closed source code.</i></p>
+6. Experience: <p><i>I’ve been studying Android for about 1 year, during which I learned a lot of technologies and approaches to software development. Before that, I tried myself in programming languages ​​such as C/C ++, Python, C#, JS, etc.</i></p>
 7. Education (including courses, seminars, lectures, online learning) <p><i>HSE-NN Software engineering (2018-2022)</br>
 Globus-LTD Android courses (2020) </i></p>
 8. English: <p><i>B1</i></p>
